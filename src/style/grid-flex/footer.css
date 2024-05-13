@@ -1,0 +1,10 @@
+.navbar__items {
+    display: flex;
+    gap: 1em;
+}
+
+
+.navbar__item {
+    display: flex;
+    gap: 1em;
+}
